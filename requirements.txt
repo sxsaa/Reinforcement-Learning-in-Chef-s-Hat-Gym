@@ -1,0 +1,7 @@
+chefshatgym
+torch==2.2.2
+stable-baselines3
+sb3-contrib
+gym==0.26.2
+numpy
+shimmy>=2.0

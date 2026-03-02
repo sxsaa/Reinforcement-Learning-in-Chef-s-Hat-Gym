@@ -1,0 +1,11 @@
+# Ignore log folders
+log/
+logs/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# (Optional) If your models folder is huge and you only want to push the final model, 
+# you can ignore all zip files EXCEPT your final one, but it's usually fine to just push them all 
+# if the total size is under 50MB.
