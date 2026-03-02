@@ -36,7 +36,7 @@ This repository contains several scripts to train, evaluate, and demonstrate the
 
 ## 6. Experimental Outputs and Interpretation
 
-### A. Learning Progress (Plots)
+### A. Learning Progress
 Below is the learning curve generated during training, proving the agent successfully optimized its policy over 200,000 steps. Both the Win Rate and Average Reward show a clear upward trajectory.
 
 ![Screenshot](learning_curve.png)
