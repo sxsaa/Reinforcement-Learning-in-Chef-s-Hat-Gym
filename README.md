@@ -1,7 +1,7 @@
 # 7043SCN Task 2: Reinforcement Learning in Chef's Hat Gym
 
 ## 1. Assignment Variant Declaration
-* **Student ID:** [Insert Your Student ID Here]
+* **Student ID:** 16898376
 * **Assigned Variant:** Variant 5 - Robustness and Generalisation
 * **Focus:** Evaluating how well the RL agent generalises across different random seeds and opponent stochasticity.
 
