@@ -13,8 +13,8 @@ To run this project, you need Python 3.8+ installed. Follow these steps to set u
 
 1. Clone this repository:
    ```bash
-   git clone [Insert Your Repo URL]
-   cd [Insert Your Repo Name]
+   git clone https://github.com/sxsaa/Reinforcement-Learning-in-Chef-s-Hat-Gym.git
+   cd Reinforcement-Learning-in-Chef-s-Hat-Gym.git
    ```
 2. Install the required dependencies:
    ```bash
