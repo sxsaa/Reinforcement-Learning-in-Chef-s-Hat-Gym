@@ -39,6 +39,8 @@ This repository contains several scripts to train, evaluate, and demonstrate the
 ## A. Learning Progress (Plots)
 Below is the learning curve generated during training, proving the agent successfully optimized its policy over 200,000 steps. Both the Win Rate and Average Reward show a clear upward trajectory.
 
+![Screenshot](learning_curve.png)
+
 ## B. Robustness and Generalisation
 To satisfy Variant 5, the final trained model was evaluated against 5 completely unseen random seeds to test its robustness against high environment stochasticity and different random opponent behaviours.
 
