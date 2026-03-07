@@ -6,7 +6,7 @@
 * **Focus:** Evaluating how well the RL agent generalises across different random seeds and opponent stochasticity.
 
 ## 2. Video Viva
-▶️ **[Insert Link to Your 3-5 Minute YouTube/OneDrive Video Here]**
+▶️ **https://drive.google.com/file/d/1GpLP8P3wxPzNEJjKqqBX0J3Vdo7eL71i/view?usp=sharing**
 
 ## 3. Installation Instructions
 To run this project, you need Python 3.8+ installed. Follow these steps to set up the environment:
@@ -47,9 +47,9 @@ To satisfy Variant 5, the final trained model was evaluated against 5 completely
 | Evaluation Seed | Win Rate (%) | Average Reward |
 |----------|----------|----------|
 | Seed 10    | 96.0%     | 2.00    |
-| eed 99    | 92.0%     | 1.97    |
+| Seed 99    | 92.0%     | 1.97    |
 | Seed 1234   | 98.0%     | 2.03    |
-| eed 5555    | 98.0%     | 2.02    |
+| Seed 5555    | 98.0%     | 2.02    |
 | Seed 9999    | 88.0%     | 1.92    |
 | **Overall Metrics**    |  94.4%    | 1.99    |
 
